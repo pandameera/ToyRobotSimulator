@@ -1,0 +1,6 @@
+D:\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\ToyRobotSimulator.exe.config
+D:\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\ToyRobotSimulator.exe
+D:\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\ToyRobotSimulator.pdb
+D:\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\ToyRobotSimulator.csprojResolveAssemblyReference.cache
+D:\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\ToyRobotSimulator.exe
+D:\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\ToyRobotSimulator.pdb
